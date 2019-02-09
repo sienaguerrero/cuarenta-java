@@ -1,5 +1,5 @@
 package cuarenta;
 
-public class Hand {
+public class Card {
 
 }
